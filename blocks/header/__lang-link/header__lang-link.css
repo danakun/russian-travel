@@ -5,8 +5,12 @@
   line-height: 28px;
   text-decoration: none;
   color: #FFF;
+  transition: opacity .3s ease-in;
 }
 
-.header__lang-link :active {
-  border-bottom: 1px solid #FFF
+.header__lang-link:hover {
+  opacity: .8;
 }
+
+
+
