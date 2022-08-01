@@ -1,6 +1,4 @@
-.lead {
+.places {
   width: calc(100% - 2*100px);
-  text-align: center;
-  padding: 56px 0 0;
   margin: 0 auto;
 }

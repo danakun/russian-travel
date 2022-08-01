@@ -1,0 +1,7 @@
+.place-card__paragraph {
+  margin: 0 0 26px;
+}
+
+.place-card__paragraph:last-of-type {
+  margin-bottom: 0;
+}

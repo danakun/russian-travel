@@ -13,18 +13,48 @@
  @import url(../blocks/header/__lang-link/header__lang-link.css);
  @import url(../blocks/header/__lang-link/_highlighted/header__lang-link_state_highlighted.css);
 
-
  /* lead */
-@import url(../blocks/);
+@import url(../blocks/lead/lead.css);
+@import url(../blocks/lead/__title/lead__title.css);
+@import url(../blocks/lead/__subtitle/lead__subtitle.css);
+@import url(../blocks/lead/__image/lead__image.css);
+@import url(../blocks/lead/__caption/lead__caption.css);
+
   /* intro */
+@import url(../blocks/intro/intro.css);
+@import url(../blocks/intro/__title/intro__title.css);
+@import url(../blocks/intro/__text/intro__text.css);
+@import url(../blocks/intro/__list/intro__list.css);
+@import url(../blocks/intro/__item/intro__item.css);
+@import url(../blocks/intro/__span-accent/intro__span-accent.css);
 
   /* photo-grid */
+@import url(../blocks/photo-grid/photo-grid.css);
+@import url(../blocks/photo-grid/photo-grid__wrapper/photo-grid__wrapper.css);
+@import url(../blocks/photo-grid/photo-grid__item/photo-grid__item.css);
 
+/* places */
+@import url(../blocks/places/places.css);
  /* place-card */
-
- /* places */
+@import url(../blocks/place-card/place-card.css);
+@import url(../blocks/place-card/__title/place-card__title.css);
+@import url(../blocks/place-card/__image/place-card__image.css);
+@import url(../blocks/place-card/__web/place-card__web.css);
+@import url(../blocks/place-card/__link-header/place-card__link-header.css);
+@import url(../blocks/place-card/__link/place-card__link.css);
+@import url(../blocks/place-card/__text/place-card__text.css);
+@import url(../blocks/place-card/__paragraph/place-card__paragraph.css);
 
  /* cover */
+@import url(../blocks/cover/cover.css);
+@import url(../blocks/cover/__background/cover__background.css);
+@import url(../blocks/cover/__title/cover__title.css);
+@import url(../blocks/cover/__subtitle/cover__subtitle.css);
 
  /* footer */
 
+@import url(../blocks/footer/footer.css);
+@import url(../blocks/footer/__nav/footer_nav.css);
+@import url(../blocks/footer/__links/footer__links.css);
+@import url(../blocks/footer/__link/footer__link.css);
+@import url(../blocks/footer/__copyright/footer__copyright.css);
