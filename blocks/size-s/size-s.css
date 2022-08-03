@@ -1,0 +1,26 @@
+.size-s {
+  max-width: 984px;
+  width: calc(100% - 2*148px);
+  margin: auto;
+}
+
+
+/* 1024 */
+@media screen and (max-width: 1024px) {
+  .size-s {
+    width: calc(100% - 2*48px);
+  }
+}
+
+/* 768 */
+@media screen and (max-width: 784px) {
+  .size-s {
+    width: calc(100% - 2*24px);
+  }
+}
+
+@media screen and (max-width: 425px) {
+  .size-s {
+    width: 100%;
+  }
+}

@@ -1,4 +1,18 @@
 .intro {
-  width: calc(100% - 2*100px);
   margin: 0 auto;
+}
+
+/* 768 */
+@media screen and (max-width: 768px) {
+  .intro {
+    width: calc(100% - 2*24px);
+  }
+}
+
+
+/* 600 */
+@media screen and (max-width: 600px) {
+  .intro {
+    width: calc(100% - 2*16px);
+  }
 }

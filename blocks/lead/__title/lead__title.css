@@ -5,3 +5,19 @@
   font-size: 96px;
   line-height: 104%;
 }
+
+/* 738 */
+@media screen and (max-width: 738px) {
+  .lead__title {
+    font-size: 72px;
+    max-width: 600px;
+  }
+}
+
+/* 600 */
+@media screen and (max-width: 600px) {
+  .lead__title {
+    font-size: 40px;
+    max-width: 270px;
+  }
+}

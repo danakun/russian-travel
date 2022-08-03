@@ -10,3 +10,30 @@
 .place-card:first-of-type {
   padding-top: 92px;
 }
+
+@media screen and (max-width: 1024px) {
+  .place-card {
+    column-gap: 32px;
+  }
+}
+
+@media screen and (max-width: 768px) {
+  .place-card {
+    column-gap: 28px;
+    padding-bottom: 72px;
+  }
+}
+
+/* 600 */
+@media screen and (max-width: 600px) {
+  .place-card {
+    display: flex;
+    flex-direction: column;
+    margin: 0 auto;
+    row-gap: 0;
+    padding-bottom: 66px;
+  }
+  .place-card:first-of-type {
+    padding-top: 64px;
+  }
+}

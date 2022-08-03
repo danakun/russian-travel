@@ -1,0 +1,18 @@
+.size-m {
+  max-width: 1184px;
+  width: calc(100% - 2*48px);
+  margin: auto;
+}
+
+/* 768 */
+@media screen and (max-width: 784px) {
+  .size-m {
+    width: calc(100% - 2*24px);
+  }
+}
+
+@media screen and (max-width: 425px) {
+  .size-m {
+    width: calc(100% - 2*16px);
+  }
+}

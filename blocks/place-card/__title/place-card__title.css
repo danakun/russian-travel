@@ -1,7 +1,31 @@
 .place-card__title {
   font-style: normal;
-font-weight: 900;
-font-size: 72px;
-line-height: 106%;
-margin: 0;
+  font-weight: 900;
+  font-size: 72px;
+  line-height: 106%;
+  margin: 0;
+}
+
+
+/* 784 */
+@media screen and (max-width: 784px) {
+  .place-card__title {
+    font-size: 42px;
+    line-height: 110%;
+  }
+}
+
+/* 600 */
+@media screen and (max-width: 600px) {
+  .place-card__title {
+    margin-bottom: 32px;
+    font-size: 32px;
+  }
+}
+
+/* 425 */
+@media screen and (max-width: 425px) {
+  .place-card__title {
+    margin-left: 16px;
+  }
 }

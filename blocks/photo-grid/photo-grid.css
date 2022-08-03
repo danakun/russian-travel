@@ -2,3 +2,10 @@
 margin: 0 auto;
 padding-top: 92px;
 }
+
+/* 425 */
+@media screen and (max-width: 425px) {
+  .photo-grid{
+    padding-top: 64px;
+  }
+}
