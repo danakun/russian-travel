@@ -2,16 +2,15 @@
   font-style: normal;
   font-weight: 900;
   font-size: 72px;
-  line-height: 106%;
+  line-height: 1.06;
   margin: 0;
 }
-
 
 /* 784 */
 @media screen and (max-width: 784px) {
   .place-card__title {
     font-size: 42px;
-    line-height: 110%;
+    line-height: 1.1;
   }
 }
 

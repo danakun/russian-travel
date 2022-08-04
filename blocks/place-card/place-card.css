@@ -11,13 +11,15 @@
   padding-top: 92px;
 }
 
+/* 1024 */
 @media screen and (max-width: 1024px) {
   .place-card {
     column-gap: 32px;
   }
 }
 
-@media screen and (max-width: 768px) {
+/* 784 */
+@media screen and (max-width: 784px) {
   .place-card {
     column-gap: 28px;
     padding-bottom: 72px;
@@ -33,6 +35,7 @@
     row-gap: 0;
     padding-bottom: 66px;
   }
+
   .place-card:first-of-type {
     padding-top: 64px;
   }

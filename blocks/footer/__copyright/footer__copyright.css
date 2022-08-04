@@ -2,16 +2,8 @@
   font-style: normal;
   font-weight: 400;
   font-size: 14px;
-  line-height: 114% ;
+  line-height: 1.14;
   margin: 0;
-}
-
-/* 784 */
-@media screen and (max-width: 784px) {
-  .footer__copyright {
-    font-size: 14px;
-    line-height: 114%;
-  }
 }
 
 /* 738 */

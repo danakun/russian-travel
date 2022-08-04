@@ -4,7 +4,6 @@
   margin: auto;
 }
 
-
 /* 1024 */
 @media screen and (max-width: 1024px) {
   .size-s {
@@ -12,13 +11,14 @@
   }
 }
 
-/* 768 */
+/* 784 */
 @media screen and (max-width: 784px) {
   .size-s {
     width: calc(100% - 2*24px);
   }
 }
 
+/* 425 */
 @media screen and (max-width: 425px) {
   .size-s {
     width: 100%;

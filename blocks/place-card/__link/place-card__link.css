@@ -1,12 +1,12 @@
 .place-card__link {
   font-style: normal;
-font-weight: 400;
-font-size: 18px;
-line-height: 122%;
-text-decoration: none;
-color: #FFF;
-border-bottom: 2px solid #FFF;
-transition: opacity .3s ease-in;
+  font-weight: 400;
+  font-size: 18px;
+  line-height: 1.22;
+  text-decoration: none;
+  color: #FFF;
+  border-bottom: 2px solid #FFF;
+  transition: opacity .3s ease-in;
 }
 
 .place-card__link:hover {

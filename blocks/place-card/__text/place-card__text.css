@@ -2,7 +2,7 @@
   font-style: normal;
   font-weight: 400;
   font-size: 18px;
-  line-height: 163%;
+  line-height: 1.63;
 }
 
 /* 784 */
@@ -12,7 +12,6 @@
     line-height: 163%;
   }
 }
-
 
 /* 600 */
 @media screen and (max-width: 600px) {
@@ -26,6 +25,7 @@
 @media screen and (max-width: 425px) {
   .place-card__text {
     margin-left: 16px;
+    margin-right: 16px;
   }
 }
 
