@@ -5,7 +5,6 @@
   line-height: 1.1;
   color: #FFFFFF;
   text-decoration: none;
-  margin-right: 18px;
   transition: opacity .3s ease-in;
 }
 
@@ -20,3 +19,10 @@
   }
 }
 
+/* 425 */
+@media screen and (max-width: 425px) {
+  .footer__link {
+    font-size: 24px;
+    line-height: 1;
+  }
+}
