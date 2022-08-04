@@ -24,6 +24,10 @@
     column-gap: 28px;
     padding-bottom: 72px;
   }
+
+  .place-card:last-of-type {
+    padding-bottom: 90px;
+  }
 }
 
 /* 600 */
@@ -38,5 +42,16 @@
 
   .place-card:first-of-type {
     padding-top: 64px;
+  }
+}
+
+/* 425 */
+@media screen and (max-width: 425px) {
+  .place-card {
+    padding-bottom: 50px;
+  }
+
+  .place-card:last-of-type {
+    padding-bottom: 66px;
   }
 }
