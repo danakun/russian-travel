@@ -9,8 +9,8 @@
   text-transform: uppercase;
 }
 
-/* 768 */
-@media screen and (max-width: 768px) {
+/* 784 */
+@media screen and (max-width: 784px) {
   .lead__caption {
     padding-left: 24px;
   }
