@@ -20,4 +20,4 @@
 * Применены flex-box grid layout там, где необходимо.
 * Создана файловая структура по БЭМ (Nested)
 
-## [Ссылка на GitHub Pages]
+## [Ссылка на GitHub Pages](https://danakun.github.io/russian-travel/)
