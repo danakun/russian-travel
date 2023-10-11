@@ -1,23 +1,22 @@
-# Название проекта: Путешествия по России
+# Project Name: Traveling in Russia
 
-### Обзор
-* Описание проекта и его функциональности
-* Технологии
-* ссылка на GitHub Pages
+## Overview
+- Project Description and Features
+- Technologies
+- Link to GitHub Pages
 
-**Описание проекта и его функциональности**
+### Project Description and Features
 
-Одностраничный сайт о путешествии по России, сделанный в рамках обучения в Яндекс-Практикум.
-Сделан на основе готового макета из Figma.
+This is a one-page website about traveling in Russia, created as part of the Yandex.Praktikum educational program. It was developed based on a pre-existing design from Figma.
 
-* [Ссылка на макет в Figma](https://www.figma.com/file/5S2WSbEFL6awjVWJ0NWL8Q/Sprint-3_-Russia-_-desktop-mobile?node-id=28503%3A0)
+- [Link to Figma Design](https://www.figma.com/file/5S2WSbEFL6awjVWJ0NWL8Q/Sprint-3_-Russia-_-desktop-mobile?node-id=28503%3A0)
 
-**Технологии**
+### Technologies
 
-* Использованы принципы адаптивной верстки, Вёрстка корректно отображается на разрешениях, предусмотренных макетами.
-* Использована CSS-функция calc() для реализации адаптивности с соблюдением корректных отступов.
-* Шрифты подключены локально через @font-face и сглажены.
-* Применены flex-box grid layout там, где необходимо.
-* Создана файловая структура по БЭМ (Nested)
+- Adaptive design principles have been employed, ensuring proper display on resolutions specified in the design.
+- The CSS `calc()` function has been used to achieve responsiveness while maintaining correct margins.
+- Fonts are locally embedded using `@font-face` and have been smoothed.
+- Flexbox grid layout has been applied where necessary.
+- A file structure has been created following the BEM (Block, Element, Modifier) methodology.
 
-## [Ссылка на GitHub Pages](https://danakun.github.io/russian-travel/)
+## [Link to GitHub Pages](https://danakun.github.io/russian-travel/)
